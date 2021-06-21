@@ -1,11 +1,12 @@
-# JavaScript IIFE(Immediately Invoked Function Expression) Sample
+# JavaScript IIFE Sample
+IIFE : Immediately Invoked Function Expression
 
 ## Overview
 IIFE (Immediately Invoked Function Expression) is a JavaScript function that is executed as soon as it is defined.  
 
 ## Syntax
 (function () {  
-    //Processing  
+&nbsp;&nbsp;&nbsp;&nbsp;//Processing  
 }());  
 
 ## Output Sample
